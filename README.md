@@ -9,7 +9,7 @@ Relação de cada uma das operações acima com o padrão arquitetural REST, e a
 5. Desenvolvimento de testes unitários para validação das funcionalidades
 6. Implantação do sistema na nuvem através do Heroku 
 
-** Technologies Used: **
+**Technologies Used:**
 
 * Java 11
 * Maven 3.8.1
